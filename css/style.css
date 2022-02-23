@@ -247,6 +247,11 @@ header .carousel-item {
     height: 100%;
 }
 
+.text-capitalize{
+    color:green
+    
+}
+
 header .carousel-one {
     background-image: url(../imgs/ub3.jpg);
 }
@@ -865,4 +870,8 @@ footer form input:last-of-type {
     .about .container > .row:first-of-type .img {
         width: 400px;
     }
+}
+
+#lk{
+    text-decoration-color: #cc0000;
 }
