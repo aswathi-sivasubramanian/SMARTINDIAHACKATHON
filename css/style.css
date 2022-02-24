@@ -1,5 +1,6 @@
 body {
     overflow-x: hidden;
+    font-family: sans-serif;
 }
 
 li {
@@ -249,7 +250,6 @@ header .carousel-item {
 
 .text-capitalize{
     color:green
-    
 }
 
 header .carousel-one {
@@ -259,9 +259,11 @@ header .carousel-one {
 header .carousel-two {
     background-image: url(../imgs/ub2.jpg);
 }
-
 header .carousel-three {
     background-image: url(../imgs/ub4.jpg);
+}
+header .carousel-four {
+    background-image: url(../imgs/ub5.jpg);
 }
 
 header button a {
@@ -329,7 +331,7 @@ header button a {
 }
 
 .about .container > .row:first-of-type .img {
-    background-image: url('../imgs/pic2.jpg');
+    background-image: url('../imgs/temple.jpg');
     background-size: cover;
     height: 400px;
     width: 659px;
