@@ -433,7 +433,8 @@ header button a {
 }
 
 .gallery .pic-one {
-    background-image: url('../imgs/pic6.jpg')
+    background-image: url('../imgs/pic6.jpg');
+    transition:scale(1.10);
 }
 
 .gallery .pic-two {
